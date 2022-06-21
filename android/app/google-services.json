@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "777605384637",
+    "firebase_url": "https://book-library-flutter-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "book-library-flutter",
+    "storage_bucket": "book-library-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777605384637:android:104c9d9dfa6f63db042ad4",
+        "android_client_info": {
+          "package_name": "com.example.book_library_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "777605384637-5v145l8vaqvi2ljs33onfbsuce6n7o4i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.book_library_flutter",
+            "certificate_hash": "1227a4072fef31515b6942c3d4b3098ad278b3b6"
+          }
+        },
+        {
+          "client_id": "777605384637-srn6ns84vednrgilc95hij2ogbgp73u0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC61sFnUD1KUSjNcyAjRS22sKo-MEJfGJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "777605384637-srn6ns84vednrgilc95hij2ogbgp73u0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
